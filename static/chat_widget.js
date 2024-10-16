@@ -1,8 +1,8 @@
 (function() {
     var threadID = null;
-    var backendURL = "https://canacobackend-cognitivedsai.replit.app";
+    var backendURL = "https://bot-asistente-laboral.vercel.app/";
     var typingIndicatorInterval = null;
-    var apiKey = "mi_llave_de_protección"; // Añadir la clave API
+    var apiKey = "123456"; // Añadir la clave API
 
     // Añadir meta tag para prevenir el zoom en dispositivos móviles
     var metaViewport = document.createElement('meta');
